@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohit Kumar Sahoo
 
-<!--
-**aDEViant/aDEViant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub!  
+I use this space to learn, experiment, and showcase my work.  
+- **`mw-` → Main Works** (projects I’ve polished and built with care)  
+- **`pp-` → Practice Projects** (smaller experiments and learning exercises)  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 About Me
+- 💡 Curious learner, want to experiment with new technologies  
+- 🛠️ Interested in Web Development
+- 🌍 Based in India 
+
+---
+
+## 🔗 Connect with Me
+- [LinkedIn](https://linkedin.com/in/mohit-sahoo)  
+- [Email](mohit.pallavisahoo@gmail.com)  
+
+---
+
+⭐️ *Pinned repositories highlight my best work — feel free to explore them!*  
