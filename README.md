@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohit Kumar Sahoo
+# 👋 Bonjour, I'm Mohit Kumar Sahoo
 
 Welcome to my GitHub!  
 I use this space to learn, experiment, and showcase my work.  
